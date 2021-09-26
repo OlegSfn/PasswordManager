@@ -1,7 +1,6 @@
 import keyring as k
 import hashlib
 import string, random
-# email | service | login -> password
 
 class main():
     def __init__(self):
